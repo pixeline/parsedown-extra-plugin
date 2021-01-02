@@ -1,12 +1,16 @@
 {
-  "name": "taufik-nurrohman/parsedown-extra-plugin",
+  "name": "pixeline/parsedown-extra-plugin",
   "description": "Configurable Markdown to HTML converter with Parsedown Extra.",
   "keywords": ["markdown", "markdown extra", "parser", "parsedown"],
-  "homepage": "https://github.com/taufik-nurrohman/parsedown-extra-plugin",
+  "homepage": "https://github.com/pixeline/parsedown-extra-plugin",
   "type": "library",
   "license": "MIT",
   "minimum-stability": "dev",
   "authors": [
+    {
+      "name": "Alexandre Plennevaux",
+      "homepage": "https://pixeline.be"
+    },
     {
       "name": "Taufik Nurrohman",
       "homepage": "https://github.com/taufik-nurrohman/parsedown-extra-plugin"
